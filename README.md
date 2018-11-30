@@ -1,2 +1,2 @@
 # visual-metaphors
-Dataset for visual metaphors book
+Annotated dataset of visual metaphors using crowdsourcing
